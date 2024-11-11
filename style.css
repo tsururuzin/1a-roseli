@@ -1,6 +1,6 @@
 body{
     color: white;
-    background: black;
+    background: #171717;
     margin: 0px;
 }
 
@@ -12,6 +12,6 @@ header{
 }
 
 section{
-    background: #171717;
+    background: #0000;
     padding-bottom: 80px;
 }
