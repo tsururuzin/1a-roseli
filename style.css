@@ -53,3 +53,7 @@ img{
 .categoria h2{
     color: rgb(224, 57, 57)
 }
+
+@media(max-width: 600px){
+
+}
