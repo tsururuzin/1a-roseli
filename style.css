@@ -54,9 +54,14 @@ img{
 .categoria h2{
     color: rgb(224, 57, 57)
 }
-
+/* celulares */
 @media(max-width: 450px){
     body{
         display: flex;
     }
+}
+
+/* tablets */
+@media (min-width: 766px;) and (max-width:1028px;){
+    
 }
