@@ -62,6 +62,6 @@ img{
 }
 
 /* tablets */
-@media (min-width: 766px;) and (max-width:1028px;){
+@media (min-width: 700px) and (max-width:1028px){
 
 }
